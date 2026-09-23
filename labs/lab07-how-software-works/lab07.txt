@@ -1,0 +1,2 @@
+LAB 7 LOGBOOK - <Akshansh Bhandari> - <e26b07f0826>
+SETUP: clang version 21.0.0  python3 version 3.14.6
